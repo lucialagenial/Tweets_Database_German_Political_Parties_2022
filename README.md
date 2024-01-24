@@ -1,5 +1,5 @@
 # **Tweets Database: German Political Parties 2022**
-This repository holds a database containing the tweets shared by the main German political parties in 2022. The databased was acquired during the last third of 2022 and beginning of 2023, a couple of months of the changes made in the X (then Tweeter) API. 
+This repository holds a database containing the tweets shared by the main German political parties in 2022. The databased was acquired during the last third of 2022 and beginning of 2023, a couple of months of the changes made in the X (then Twitter) API. 
 The scrapping of these tweets was a crucial part of the field work for my doctoral research project titled "Discourses on Radical Right Identity on Social Media. The case of the German political party Alternative for Germany on Twitter", as part of the Doctoral Program on Management of Culture ([Doctorado en Gestión de la Cultura](https://gestioncultural.udgvirtual.udg.mx/)) of the University of Guadalajara, Mexico. 
 My aim with these databases it to give public access to the information, now that the new X APIs, both v2. and v1.1, have undergone significant modifications in terms of accessibility and monetization. 
 
