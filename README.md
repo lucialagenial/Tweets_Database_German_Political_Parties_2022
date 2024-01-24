@@ -27,7 +27,7 @@ My aim with these databases it to give public access to the information, now tha
 The databases are composed by comma-separated values ```(.csv)``` files, which stores tabular data. The columns of each datafile are the following:
 * ```Datetime```: string that stores a data value as a contiguous series of fields that represents each time unit (year, month, day, and so forth) in the data type declaration.
 * ```Tweet Id```: The integer representation of the unique identifier for this Tweet.
-* ```Text```: The actual UTF-8 text of the Tweet. See twitter-text for details on what characters are currently considered valid.
+* ```Text```: The actual UTF-8 text of the Tweet. See [twitter-text](https://developer.twitter.com/en/docs/counting-characters) for details on what characters are currently considered valid.
 * ```favorite_count```: Public engagement metrics for the Tweet at the time of the request for favorite counts.
 * ```retweet_count```: Public engagement metrics for the Tweet at the time of the request for retweets of the original tweet.
 
