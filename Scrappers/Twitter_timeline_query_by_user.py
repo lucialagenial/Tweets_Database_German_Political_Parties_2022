@@ -53,9 +53,11 @@ def username_tweets_to_csv(username, count):
 
 # Input username to scrape tweets and name csv file
 # Max recent tweets pulls x amount of most recent tweets from that user
-username = 'AfD'
+username = 'AfD' # Example
 count = 20000
 
+
+# Other user names used:
 # 'AfD'
 # 'Die_Gruenen'
 # 'CDU'
@@ -66,14 +68,3 @@ count = 20000
 
 # Calling function to turn username's past X amount of tweets into a CSV file
 username_tweets_to_csv(username, count)
-
-# To check whether you can get the replies on a tweet
-
-# client = tweepy.Client(bearer_token="YOUR_BEARER_TOKEN")
-# client_result = client.get_tweet(1387426242060767234, \
-#      tweet_fields=["public_metrics"])
-# tweet = client_result.data
-
-# print(tweet.public_metrics["reply_count"])
-
-# Check further here:
