@@ -8,7 +8,7 @@ My aim with these databases it to give public access to the information, now tha
  ./Tweets_Database-German-Political-Parties_2022 /
 │
 ├── Code/
-│   ├── Twitter_timeline_query_by_user.pycsv
+│   ├── Twitter_timeline_query_by_user.py
 │   └── X_timeline_query-by-userID_2024.py
 │
 ├── Data_Tweets/
