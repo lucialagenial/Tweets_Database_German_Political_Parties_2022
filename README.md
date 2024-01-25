@@ -42,9 +42,9 @@ Regarding the data, the accounts from which the timelines were scraped are the f
 * [@dieLinke](https://twitter.com/dielinke) – Die Linke 
 
 ### **Python Code – Twitter/X Timeline Tweet Scrapers**
-In this repository you will also find the original code for timeline scrapping using the ```Tweepy``` library for Python, 
-which was written before May 2023 for the original ```API v1.1```, as well as a newer version of a similar code now modified for the ```API v2``` aimed to be
-used with X’s ```Basic``` package.
+In this repository you also find the original code for timeline scrapping using the ```Tweepy``` library for Python, 
+which was written before May 2023 for the original ```API v1.1```. Additionally, an updated version of a similar code modified for the ```API v2``` aimed to be
+used with X’s ```Basic``` package is included.
 
 
 
@@ -56,9 +56,9 @@ used with X’s ```Basic``` package.
 
 
 ### **Disclaimer:** 
-These resources are being shared for pure scientific and analytical purposes. I do now own the information; all the data
-is publicly available in the timelines of the previously mentioned accounts. My attempt is just to provide a systematized
-and structured representation of the information for further analysis. Information of the tweets and public metrics might 
+These resources are being shared for pure scientific and analytical purposes. I do now own the information, nor was I the 
+original author of the tweets; all the data is publicly available in the timelines of the previously mentioned accounts. My attempt is solely based to provide a systematized
+and structured representation of the information and open it for further posible analysis. Information of the tweets and public metrics might 
 vary with time.
 
 
